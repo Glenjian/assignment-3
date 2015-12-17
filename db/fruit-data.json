@@ -1,0 +1,152 @@
+[
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Gender",
+    "FIELD3":"Male",
+    "FIELD4":"37.3"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Gender",
+    "FIELD3":"Female",
+    "FIELD4":"43.3"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Gender by Age- Male",
+    "FIELD3":"12-13",
+    "FIELD4":"35.2"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Gender by Age- Male",
+    "FIELD3":"14-15",
+    "FIELD4":"42.1"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Gender by Age- Male",
+    "FIELD3":"16-17",
+    "FIELD4":"34.6"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Gender by Age- Female",
+    "FIELD3":"12-13",
+    "FIELD4":"50.1"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Gender by Age- Female",
+    "FIELD3":"14-15",
+    "FIELD4":"39.8"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Gender by Age- Female",
+    "FIELD3":"16-17",
+    "FIELD4":"40.5"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Ethnicity",
+    "FIELD3":"White",
+    "FIELD4":"40.3"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Ethnicity",
+    "FIELD3":"African American",
+    "FIELD4":"35.2"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Ethnicity",
+    "FIELD3":"Latino",
+    "FIELD4":"44.2"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Ethnicity",
+    "FIELD3":"Asian/Other",
+    "FIELD4":"29.6"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Income",
+    "FIELD3":"Less than $15,000",
+    "FIELD4":"43.2"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Income",
+    "FIELD3":"$15,000 - 24,999",
+    "FIELD4":"38.2"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Income",
+    "FIELD3":"$25,000 - 34,999",
+    "FIELD4":"54.1"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Income",
+    "FIELD3":"$35,000 - 49,999",
+    "FIELD4":"41"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Income",
+    "FIELD3":"$50,000 - 74,999",
+    "FIELD4":"29.7"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Income",
+    "FIELD3":"$75,000 or greater",
+    "FIELD4":"42.3"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Physical Activity Status",
+    "FIELD3":"Regular",
+    "FIELD4":"41.9"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Physical Activity Status",
+    "FIELD3":"Irregular",
+    "FIELD4":"34.4"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Overweight Status",
+    "FIELD3":"Not Overweight",
+    "FIELD4":"41.2"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"Overweight Status",
+    "FIELD3":"Overweight/Obese",
+    "FIELD4":"39.1"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"CalFresh Status, % FPL",
+    "FIELD3":"Participant",
+    "FIELD4":"47.5"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"CalFresh Status, % FPL",
+    "FIELD3":"Likely Eligible, ≤ 130%",
+    "FIELD4":"41.9"
+  },
+  {
+    "FIELD1":"2012",
+    "FIELD2":"CalFresh Status, % FPL",
+    "FIELD3":"Not Eligible, > 185% ",
+    "FIELD4":"36.2"
+  }
+]
