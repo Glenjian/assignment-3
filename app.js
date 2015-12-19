@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 
 var dbConfig = require('./db/db.js');
 var mongoose = require('mongoose');
-require('./models/GraphData');
+require('./models/FruitData');
 mongoose.connect(dbConfig.url);
 
 var app = express();
